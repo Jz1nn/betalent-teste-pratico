@@ -28,41 +28,50 @@
 - Desenvolver modelos de machine learning para previsões de vendas e segmentação de clientes.
 - Integrar estatísticas ao contexto de um LLM para gerar insights em linguagem natural.
 
-# **Desenvolvimento da Solução**
+# **Desenvolvimento da Solução e Insights Sobre o Negócio**
 1. Descrição dos Dados
 2. Estatísticas Descritivas
 3. Mapa Mental de Hipóteses
 4. Análise Exploratória de Hipóteses
-   - Descontos acima de 20% reduzem significativamente o lucro.
-   - Vendas e lucros são maiores no quarto trimestre.
-   - A categoria "Office Supplies" tem margens de lucro maiores.
-   - O segmento "Corporate" gasta mais por pedido.
-   - Clientes recorrentes representam uma porcentagem significativa das vendas.
 5. Análise Exploratória dos Dados (EDA)
    - Variáveis de Resposta
    - Variáveis Numéricas
    - Variáveis Categóricas
-   - Validação de Hipóteses
+   - Validação de Hipóteses **Insights Sobre o Negócio**
+     - Descontos acima de 20% reduzem significativamente o lucro.
+     - Vendas e lucros são maiores no quarto trimestre.
+     - A categoria "Office Supplies" tem margens de lucro maiores.
+     - O segmento "Corporate" gasta mais por pedido.
+     - Clientes recorrentes representam uma porcentagem significativa das vendas.
    - Resumo das Hipóteses
 6. Análise Multivariada
    - Atributos Numéricos
    - Atributos Categóricos
 7. Modelagem de Machine Learning
    - Comparação de Desempenho dos Modelos
+8. Hyperparameter Fine Tuning
+   - Fine Tuning com o melhor modelo
+9. Machine Learning Performance
 
 # **Conclusão e Demonstração**
 ### Top Features
+![features](/img/features.png)
 
 ## Comparação De Performance dos Modelos
 ### Conjunto de dados únicos
+![singlePerformance](/img/single-performance.png)
 
 ### Conjunto de dados Reais - Validação Cruzada
+![crossValidation](/img/cross-validation.png)
 
 ### Desempenho do Modelo de Machine Learning XGBoost
+![xgboost](/img/xgboost.png)
 
 ### Desempenho do Negócio
+![businessPerformance](/img/business-performance.png)
 
 ### Desempenho Total
+![modelPerformance](/img/model-performance.png)
 
 
 # **Próximos Passos**
@@ -72,9 +81,9 @@
 4. Integração com IA Generativa ao contexto de um LLM para gerar insights em linguagem natural
 
 ## Considerações Finais
-Este projeto demonstra a capacidade de aplicar técnicas de análise de dados, machine learning e IA generativa para extrair insights valiosos e desenvolver soluções preditivas. A documentação detalhada e a abordagem estruturada garantem a replicabilidade e a compreensão do processo.
+Apesar de ter realizado outros projetos semelhantes, tive algumas dificuldades nesse projeto que me permitiram evoluir tanto no âmbito técnico quanto na análise e entendimento de negócios. Em minhas pesquisas, descobri novas formas de tratar os dados e variáveis, novos insights sobre *Feature engineering* e *Feature Preparation*, também aprendi um pouco mais sobre *Séries Temporais* e como lidar com esse tipo de problema. Por fim apesar do resultado não atender às minhas expectativas, pretendo aperfeiçoar minhas habilidades com novas técnicas de tratamento de dados e modelos de Machine Learning, agradeço a oportunidade de me desafiar e evoluir como profissional.
 
-Autor: John Willian de Jesus Soares
-Data: 24/02/2025
-Contato: jz1nnwln@gmail.com
-Linkedin: https://www.linkedin.com/in/jz1nnwln/
+### Autor: John Willian de Jesus Soares
+### Data: 24/02/2025
+### Contato: jz1nnwln@gmail.com
+### Linkedin: www.linkedin.com/in/jz1nnwln/
