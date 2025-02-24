@@ -73,6 +73,7 @@
 ### Desempenho Total
 ![modelPerformance](/img/model-performance.png)
 
+## Demais visualizações e análises no arquivo do notebook
 
 # **Próximos Passos**
 1. Workshop com Usuários de Negócio.
