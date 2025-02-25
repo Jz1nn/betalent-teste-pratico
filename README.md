@@ -38,11 +38,16 @@
    - Variáveis Numéricas
    - Variáveis Categóricas
    - Validação de Hipóteses **Insights Sobre o Negócio**
-     - Descontos acima de 20% reduzem significativamente o lucro.
-     - Vendas e lucros são maiores no quarto trimestre.
-     - A categoria "Office Supplies" tem margens de lucro maiores.
-     - O segmento "Corporate" gasta mais por pedido.
-     - Clientes recorrentes representam uma porcentagem significativa das vendas.
+     - Descontos acima de 20% reduzem significativamente o lucro. **Verdadeiro**
+     ![h1](/img/h1.png)
+     - Vendas e lucros são maiores no quarto trimestre. **Falso**
+     ![h2](/img/h2.png)
+     - O segmento "Home Office" apresenta margens de lucro mais altas devido a compras de menor volume e menor desconto. **Verdadeiro**
+     ![h3](/img/h3.png)
+     - A categoria "Office Supplies" tem margens de lucro maiores em comparação com "Furniture" e "Technology". **Falso**
+     ![h4](/img/h4.png)
+     - O segmento "Corporate" gasta mais por pedido, mas o segmento "Consumer" tem maior volume de pedidos. **Falso**
+     ![h5](/img/h5.png)
    - Resumo das Hipóteses
 6. Análise Multivariada
    - Atributos Numéricos
