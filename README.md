@@ -75,9 +75,6 @@
 ### Desempenho do Negócio
 ![businessPerformance](/img/business-performance.png)
 
-### Desempenho Total
-![modelPerformance](/img/model-performance.png)
-
 ## Demais visualizações e análises no arquivo do notebook
 
 # **Próximos Passos**
