@@ -1,4 +1,4 @@
-# BeTalent Superstore Sales Analysis
+# Superstore Sales Analysis
 
 ## Sumário
 1. Contexto
